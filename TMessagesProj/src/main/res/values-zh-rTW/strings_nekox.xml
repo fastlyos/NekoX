@@ -53,7 +53,7 @@
     <string name="More">更多</string>
     <string name="NekoXUpdatesChannel">NekoX 更新頻道</string>
     <string name="ShowIdAndDc">在個人資料中顯示ID / DC</string>
-    <string name="UseDefaultTheme">使用默認主題 *</string>
+    <string name="UseDefaultTheme">使用預設主題 *</string>
     <string name="NightMode">夜間模式</string>
     <string name="PrivacyNotice">隱私警告</string>
     <string name="PrivacyNoticePhoneVisible">檢測到您的手機號碼對任何人都可見, 這可能會導致政府控制的黑客找到您的真實身份，請關閉它！</string>
@@ -99,7 +99,7 @@
     <string name="FilterMenu">分類菜單</string>
     <string name="DisableProxyWhenVpnEnabled">啓用 VPN 時禁用代理</string>
     <string name="UseProxyItem">使用側邊欄代理項而不是按鈕</string>
-    <string name="HideProxyByDefault">默認情況下隱藏代理設置</string>
+    <string name="HideProxyByDefault">預設隱藏代理設置</string>
     <string name="SkipOpenLinkConfirm">跳過打開鏈接確認</string>
     <string name="DeleteAllInChat">刪除群組所有消息</string>
     <string name="DeleteAllInChatAlert">警告！這將**刪除此聊天中所有使用者**的**所有訊息**。</string>
